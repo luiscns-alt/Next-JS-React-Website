@@ -9,7 +9,7 @@ export default function TextFeature({
   btnURL = '#',
 }) {
   return (
-    <h1>TextFeature</h1>
+    <h1>Sua Jornada para o sucesso</h1>
   );
 }
 
